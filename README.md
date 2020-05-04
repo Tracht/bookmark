@@ -1,6 +1,6 @@
-** Bookmark Manager Challenge
+# Bookmark Manager Challenge
 
-* Step 1
+## Step 1
 - Write user story based on requirements
 - Start with first requirement: show a list of bookmarks
 - User story:
