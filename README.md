@@ -18,10 +18,21 @@ Message: view_all_bookmarks
 
 ## Step 3
 Context: move hard-coded bookmarks into a database
+Development Environment
 How to setup the database from scratch:
 1. Connect to psql
 2. Create the database using the psql command CREATE DATABASE bookmark_manager;
 3. Connect to the database using these commands:
 psql
 \c bookmark_manager;
+4. Run the query we have saved in the file 01_create_bookmarks_table.sql
+
+## Step 4
+Context: setup a test version of the development database
+Test Environment
+1. Connect to psql
+2. Create the database using the psql command CREATE DATABASE bookmark_manager_test;
+3. Connect to the database using these commands:
+psql
+\c bookmark_manager_test;
 4. Run the query we have saved in the file 01_create_bookmarks_table.sql
