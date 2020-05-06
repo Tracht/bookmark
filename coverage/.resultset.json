@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/marijatrachtenberg/Makers/week4/bookmark/spec/bookmark_class_spec.rb": {
+      "/Users/student/Desktop/makers/bookmark/spec/bookmark_class_spec.rb": {
         "lines": [
           1,
           null,
@@ -14,6 +14,9 @@
           1,
           1,
           1,
+          null,
+          1,
+          null,
           1,
           1,
           1,
@@ -23,14 +26,48 @@
           1,
           1,
           1,
+          null,
           1,
+          0,
           null,
           null,
           null,
           null
         ]
       },
-      "/Users/marijatrachtenberg/Makers/week4/bookmark/spec/features/add_bookmark_spec.rb": {
+      "/Users/student/Desktop/makers/bookmark/spec/features/add_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Desktop/makers/bookmark/spec/features/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Desktop/makers/bookmark/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -39,30 +76,12 @@
           1,
           1,
           null,
-          null
-        ]
-      },
-      "/Users/marijatrachtenberg/Makers/week4/bookmark/spec/features/bookmark_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          1,
-          1,
           1,
           null,
           null
         ]
       },
-      "/Users/marijatrachtenberg/Makers/week4/bookmark/spec/features/index_spec.rb": {
+      "/Users/student/Desktop/makers/bookmark/spec/features/index_spec.rb": {
         "lines": [
           1,
           1,
@@ -73,6 +92,6 @@
         ]
       }
     },
-    "timestamp": 1588775450
+    "timestamp": 1588780226
   }
 }
