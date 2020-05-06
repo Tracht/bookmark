@@ -3,8 +3,7 @@ require 'pg'
 feature 'view bookmark' do
   scenario 'shows all bookmarks' do
     connection = PG.connect(dbname: 'bookmark_manager_test')
-
-
+    
 # Add the test data
     connection.exec("INSERT INTO bookmarks VALUES(1, 'http://www.makersacademy.com');")
     connection.exec("INSERT INTO bookmarks VALUES(2, 'http://www.destroyallsoftware.com');")
